@@ -1,4 +1,4 @@
-name: JSHook Plugin Template
-description: TypeScript-first template plugin showing createExtension(), built-in tool invocation, Promise.all parallel reads, and minimal permissions.
-author: your-team
-source_repo: https://github.com/vmoranv/jshook_plugin_template
+name: Android Archive Index
+description: Compute APK archive hashes and file-level triage metadata.
+author: vmoranv
+source_repo: https://github.com/vmoranv/jshook_plugin_android_archive_index
